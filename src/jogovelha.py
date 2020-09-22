@@ -22,7 +22,7 @@ jogo = inicializar( )
 
 print (jogo)
 
-if __name__ == "__main__": Raquel
+if __name__ == "__main__":
 
 main()
 
